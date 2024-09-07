@@ -1,0 +1,137 @@
+{
+    "rest": {
+        "id": 999,
+        "name": "Отдых",
+        "description": null,
+        "image": null,
+        "videoPath": null,
+        "duration": 10,
+        "active": "rest"
+    },
+    "unknown": {
+        "id": 0,
+        "name": "Упражнение",
+        "description": "Упражнение по выбору",
+        "image": null,
+        "videoPath": null,
+        "duration": 30,
+        "active": "work"
+    },
+    "jumpingJacks": {
+        "id": 1,
+        "name": "Прыжки на месте",
+        "description": "Jumping Jacks.\r\n Исходное положение – стопы вместе, руки вниз. \r\n Затем одновременно поднимаете руки через стороны над головой и прыжком разводите ноги чуть шире плеч. Без задержки быстро возвращаетесь в исходное положение.",
+        "image": null,
+        "videoPath": "_a29JwDaVJw",
+        "duration": 30,
+        "active": "work"
+    },
+    "wallSit": {
+        "id": 2,
+        "name": "Присед у стены",
+        "description": "Wall sit\r\nИзометрическое упражнение.  Ноги на ширине плеч, присесть у стены – и в статичном положении простоять 30 секунд. После завершения – поднимайтесь осторожно.",
+        "image": null,
+        "videoPath": "0RGCezLuP6c",
+        "duration": 30,
+        "active": "work"
+    },
+    "pushUp": {
+        "id": 3,
+        "name": "Отжимания",
+        "description": "Push-up.\r\nЕсли вам сложно 30 секунд отжиматься – можно выполнить более простой вариант – отжимания не на прямых ногах, а на коленях. Еще более простой вариант – отжимания от стены. Постепенно нагрузку можно будет увеличивать.",
+        "image": null,
+        "videoPath": "dAfVhTXDUNo",
+        "duration": 30,
+        "active": "work"
+    },
+    "abdominalCrunch": {
+        "id": 4,
+        "name": "Скручивания",
+        "description": "Abdominal Crunch.\r\nпомните: физические упражнения стимулируют кровообращение – это повышает кровоток в лобных долях – и улучшает дедуктивное мышление…",
+        "image": null,
+        "videoPath": "_YVhhXc2pSY",
+        "duration": 30,
+        "active": "work"
+    },
+    "stepUp": {
+        "id": 5,
+        "name": "Зашагивания на стул",
+        "description": "Step-up onto Chair.\r\nУпражнение не только дает нагрузку на мышцы ног, но и требует некоторой координации. Если делаете с утра – будьте бдительны.",
+        "image": null,
+        "videoPath": "dG75KOf4EtY",
+        "duration": 30,
+        "active": "work"
+    },
+    "squat": {
+        "id": 6,
+        "name": "Приседания",
+        "description": "Squat",
+        "image": null,
+        "videoPath": "YYHDXY26GjE",
+        "duration": 30,
+        "active": "work"
+    },
+    "tricepDip": {
+        "id": 7,
+        "name": "Отжимания на стуле на трицепс",
+        "description": "Triceps dip on chair",
+        "image": null,
+        "videoPath": "3ydgLFLK8e0",
+        "duration": 30,
+        "active": "work"
+    },
+    "plank": {
+        "id": 8,
+        "name": "Планка",
+        "description": "Plank Core",
+        "image": null,
+        "videoPath": "JEkxJKCPiFU",
+        "duration": 30,
+        "active": "work"
+    },
+    "highKneeRunning": {
+        "id": 9,
+        "name": "Бег с высоким подниманием коленей",
+        "description": "High knees/running in place Total body",
+        "image": null,
+        "videoPath": "_a29JwDaVJw",
+        "duration": 30,
+        "active": "work"
+    },
+    "lunges": {
+        "id": 10,
+        "name": "Выпады",
+        "description": "Lunge Lower body",
+        "image": null,
+        "videoPath": "UWgWxKKdycU",
+        "duration": 30,
+        "active": "work"
+    },
+    "pushUpAndRotation": {
+        "id": 11,
+        "name": "Отжимания с поворотом",
+        "description": "Push-up and rotation Upper body.\r\nОтожмитесь – потом оттолкнитесь от пола и перевернитесь на левый бок, а правую руку поднимите к потолку. Тело образует подобие буквы Т.\r\nОпустите руку на пол, еще раз отожмитесь и повернитесь, но уже в другую сторону.\r\nРаботают мышцы груди, верхней части спины и трицепс. На видео, конечно, усложненный вариант.",
+        "image": null,
+        "videoPath": "YU0gWh72a3k",
+        "duration": 30,
+        "active": "work"
+    },
+    "sidePlankLeft": {
+        "id": 12,
+        "name": "Боковая планка левая",
+        "description": "Side plank Core.\r\nЧтобы немного упростить задачу – можно на первых порах помогать себе другой рукой, давая дополнительную поддержку.",
+        "image": null,
+        "videoPath": "IkMmABQ9SkM",
+        "duration": 15,
+        "active": "work"
+    },
+    "sidePlankRight": {
+        "id": 13,
+        "name": "Боковая планка правая",
+        "description": "Side plank Core",
+        "image": null,
+        "videoPath": null,
+        "duration": 15,
+        "active": "work"
+    }
+}

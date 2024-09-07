@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -26,6 +32,31 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Go-activity-expanded {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.aspect-ratio-box {
+  height: 0;
+  overflow: hidden;
+  padding-top: 196px;
+  position: relative;
+}
+.aspect-ratio-box-inside {
+  position: absolute;
+  padding: 5px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 @keyframes App-logo-spin {

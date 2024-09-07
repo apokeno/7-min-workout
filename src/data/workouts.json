@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "7 Minute Workout",
+        "sets": 2,
+        "defaultRest": 2,
+        "defaultDuration": 3,
+        "description": "Несколько практических замечаний:\r\nЕсли просто посмотреть на картинку – комплекс кажется очень простым. Но когда начинаешь делать в нужном темпе – да, действительно, нагрузка довольно серьезная.\r\nНагрузку легко менять под ваши нужды и степень подготовки. Упражнения можно делать в более простом или сложном варианте.\r\nТ.е. этот комплекс можно использовать почти при любом уровне подготовки.\r\nДаже когда вы очень сильно заняты – 7 минут можно найти всегда.\r\nНе требует сложных тренажеров – поэтому можно выполнить где угодно. Хоть дома, хоть в командировке.",
+        "activities": [
+            {
+                "exerciseKey": "jumpingJacks"
+            },
+            {
+                "exerciseKey": "wallSit"
+            },
+            {
+                "exerciseKey": "pushUp"
+            },
+            {
+                "exerciseKey": "abdominalCrunch"
+            },
+            {
+                "exerciseKey": "stepUp"
+            },
+            {
+                "exerciseKey": "squat"
+            },
+            {
+                "exerciseKey": "tricepDip"
+            },
+            {
+                "exerciseKey": "plank"
+            },
+            {
+                "exerciseKey": "highKneeRunning"
+            },
+            {
+                "exerciseKey": "lunges"
+            },
+            {
+                "exerciseKey": "pushUpAndRotation"
+            },
+            {
+                "exerciseKey": "sidePlankLeft",
+                "duration": 15
+            },
+            {
+                "id": 0,
+                "exerciseKey": "rest",
+                "name": "Смена стороны",
+                "duration": 5
+            },
+            {
+                "exerciseKey": "sidePlankRight",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "The Advanced 7-Minute Workout",
+        "sets": 1,
+        "defaultRest": 2,
+        "defaultDuration": 3,
+        "activities": [
+            {
+                "id": 1,
+                "exerciseKey": "jumpingJacks",
+                "name": "Jumping Jacks",
+                "duration": 30
+            }
+        ]
+    }
+]

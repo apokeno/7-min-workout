@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="95" fill="#000" stroke="#fff" stroke-width="5"/>
+
+    <!-- Progress Bar Background -->
+    <circle cx="100" cy="100" r="75" fill="none" stroke="#333" stroke-width="10"/>
+
+    <!-- Progress Bar -->
+    <circle cx="100" cy="100" r="75" fill="none" stroke="#ff4500" stroke-width="10" stroke-dasharray="471" stroke-dashoffset="325.23">
+    </circle>
+
+    <!-- HIT Text -->
+    <text x="100" y="110" font-family="Arial" font-size="40" fill="#fff" text-anchor="middle" dominant-baseline="middle">HIIT</text>
+
+    <!-- Dynamic Shapes -->
+    <line x1="100" y1="20" x2="100" y2="50" stroke="#fff" stroke-width="5" />
+    <line x1="100" y1="120" x2="100" y2="170" stroke="#fff" stroke-width="5" />
+
+    <!-- Outer Arrows -->
+    <polygon points="170,100 150,90 150,110" fill="#ff4500"/>
+    <polygon points="30,100 50,90 50,110" fill="#ff4500"/>
+</svg>
